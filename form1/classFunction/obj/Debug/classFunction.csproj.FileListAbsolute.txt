@@ -1,0 +1,6 @@
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\classFunction\bin\Debug\classFunction.dll
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\classFunction\bin\Debug\classFunction.pdb
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\classFunction\obj\Debug\classFunction.csproj.AssemblyReference.cache
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\classFunction\obj\Debug\classFunction.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\classFunction\obj\Debug\classFunction.dll
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\classFunction\obj\Debug\classFunction.pdb

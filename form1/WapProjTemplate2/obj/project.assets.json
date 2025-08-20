@@ -9,9 +9,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -31,9 +43,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -53,9 +77,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -75,9 +111,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -97,9 +145,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -119,9 +179,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -141,9 +213,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -163,9 +247,21 @@
           "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
+      "classFunction/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/classFunction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classFunction.dll": {}
+        }
+      },
       "form1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "classFunction": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/form1.dll": {}
         },
@@ -376,6 +472,11 @@
         "schemas/10.0.26100.0/winrt/UapManifestSchema_v8.xsd"
       ]
     },
+    "classFunction/1.0.0": {
+      "type": "project",
+      "path": "../classFunction/classFunction.csproj",
+      "msbuildProject": "../classFunction/classFunction.csproj"
+    },
     "form1/1.0.0": {
       "type": "project",
       "path": "../form1/form1.csproj",
@@ -395,11 +496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\U-ser\\source\\repos\\form1\\WapProjTemplate2\\WapProjTemplate2.wapproj",
+      "projectUniqueName": "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\WapProjTemplate2\\WapProjTemplate2.wapproj",
       "projectName": "WapProjTemplate2",
-      "projectPath": "C:\\Users\\U-ser\\source\\repos\\form1\\WapProjTemplate2\\WapProjTemplate2.wapproj",
+      "projectPath": "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\WapProjTemplate2\\WapProjTemplate2.wapproj",
       "packagesPath": "C:\\Users\\U-ser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\U-ser\\source\\repos\\form1\\WapProjTemplate2\\obj\\",
+      "outputPath": "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\WapProjTemplate2\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
@@ -421,8 +522,8 @@
         "uap10.0.17763": {
           "targetAlias": "net451",
           "projectReferences": {
-            "C:\\Users\\U-ser\\source\\repos\\form1\\form1\\form1.csproj": {
-              "projectPath": "C:\\Users\\U-ser\\source\\repos\\form1\\form1\\form1.csproj"
+            "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\form1\\form1.csproj": {
+              "projectPath": "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\form1\\form1.csproj"
             }
           }
         }
