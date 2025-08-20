@@ -1,0 +1,2 @@
+MainPackage=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Debug\WebPackage_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\obj\x86\Debug\Symbols\WebPackage_1.0.0.0_x86_Debug.appxsym
