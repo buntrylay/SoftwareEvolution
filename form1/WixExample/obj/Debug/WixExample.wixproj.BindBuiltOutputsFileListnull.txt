@@ -1,2 +1,2 @@
-C:\Users\U-ser\source\repos\form1\WixExample\bin\Debug\WixExample.msi
-C:\Users\U-ser\source\repos\form1\WixExample\bin\Debug\WixExample.wixpdb
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WixExample\bin\Debug\WixExample.msi
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WixExample\bin\Debug\WixExample.wixpdb

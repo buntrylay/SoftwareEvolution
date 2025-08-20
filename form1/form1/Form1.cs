@@ -1,5 +1,5 @@
 using System.Windows.Forms;
-using classFunction;
+using CalculatorFunctions;
 
 namespace form1
 {

@@ -4,3 +4,5 @@ obj\Debug\Product.wixobj
 obj\Debug\WixExample.wixproj.BindContentsFileListnull.txt
 obj\Debug\WixExample.wixproj.BindOutputsFileListnull.txt
 obj\Debug\WixExample.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WixExample\bin\Debug\WixExample.msi
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WixExample\bin\Debug\WixExample.wixpdb

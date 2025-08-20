@@ -1,29 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {
-      "classFunction/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/classFunction.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/classFunction.dll": {}
-        }
-      }
-    }
+    "net8.0-windows7.0": {}
   },
-  "libraries": {
-    "classFunction/1.0.0": {
-      "type": "project",
-      "path": "../classFunction/classFunction.csproj",
-      "msbuildProject": "../classFunction/classFunction.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": [
-      "classFunction >= 1.0.0"
-    ]
+    "net8.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\U-ser\\.nuget\\packages\\": {},
@@ -57,11 +39,7 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {
-            "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\classFunction\\classFunction.csproj": {
-              "projectPath": "C:\\Users\\U-ser\\source\\repos\\SoftwareEvolution\\form1\\classFunction\\classFunction.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

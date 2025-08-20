@@ -1,0 +1,6 @@
+C:\Users\U-ser\source\repos\SoftwareEvolution\CalculatorFunctions\CalculatorFunctions\bin\Debug\CalculatorFunctions.dll
+C:\Users\U-ser\source\repos\SoftwareEvolution\CalculatorFunctions\CalculatorFunctions\bin\Debug\CalculatorFunctions.pdb
+C:\Users\U-ser\source\repos\SoftwareEvolution\CalculatorFunctions\CalculatorFunctions\obj\Debug\CalculatorFunctions.csproj.AssemblyReference.cache
+C:\Users\U-ser\source\repos\SoftwareEvolution\CalculatorFunctions\CalculatorFunctions\obj\Debug\CalculatorFunctions.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\source\repos\SoftwareEvolution\CalculatorFunctions\CalculatorFunctions\obj\Debug\CalculatorFunctions.dll
+C:\Users\U-ser\source\repos\SoftwareEvolution\CalculatorFunctions\CalculatorFunctions\obj\Debug\CalculatorFunctions.pdb

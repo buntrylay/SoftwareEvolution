@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v8.0": {
       "form1/1.0.0": {
         "dependencies": {
-          "classFunction": "1.0.0"
+          "CalculatorFunctions": "1.0.0.0"
         },
         "runtime": {
           "form1.dll": {}
         }
       },
-      "classFunction/1.0.0": {
+      "CalculatorFunctions/1.0.0.0": {
         "runtime": {
-          "classFunction.dll": {
+          "CalculatorFunctions.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,8 +30,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "classFunction/1.0.0": {
-      "type": "project",
+    "CalculatorFunctions/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

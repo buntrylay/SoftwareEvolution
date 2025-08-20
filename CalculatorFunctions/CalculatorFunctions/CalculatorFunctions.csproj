@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>8963dfc4-7abd-45fc-9075-b80429ca99c6</ProjectGuid>
+    <ProjectGuid>fb15b285-7db9-43a8-a5a2-5ab18ed3e6c2</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>classFunction</RootNamespace>
-    <AssemblyName>classFunction</AssemblyName>
+    <RootNamespace>CalculatorFunctions</RootNamespace>
+    <AssemblyName>CalculatorFunctions</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -1,4 +1,4 @@
-﻿namespace classFunction
+﻿namespace CalculatorFunctions
 {
     public class Calculator
     {
