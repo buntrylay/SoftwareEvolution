@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="DesktopExampleProgram" Language="1033" Version="1.0.0.0" Manufacturer="Buntry" UpgradeCode="1de2746e-3ea9-47f8-9b58-cc9f043bd84c">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="DesktopExample" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DesktopInstallation" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="form1.exe" Guid="B2A0128C-9852-485E-B747-C097AD76C2FD">
+				<File Id="form1.exe" Name="form1.exe" Source="$(var.form1.TargetDir)form1.exe" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

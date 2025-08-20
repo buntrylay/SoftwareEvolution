@@ -1,0 +1,13 @@
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\SplashScreen.scale-200.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\LockScreenLogo.scale-200.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\Square150x150Logo.scale-200.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\Square44x44Logo.scale-200.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\StoreLogo.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\Images\Wide310x150Logo.scale-200.png
+C:\Users\U-ser\source\repos\form1\WinUniversalPackage1\bin\AnyCPU\Debug\resources.pri
+C:\Users\U-ser\source\repos\form1\form1\bin\Debug\net8.0-windows\form1.deps.json
+C:\Users\U-ser\source\repos\form1\form1\obj\Debug\net8.0-windows\apphost.exe
+C:\Users\U-ser\source\repos\form1\form1\bin\Debug\net8.0-windows\form1.runtimeconfig.json
+C:\Users\U-ser\source\repos\form1\form1\bin\Debug\net8.0-windows\form1.dll
+C:\Users\U-ser\source\repos\form1\form1\bin\Debug\net8.0-windows\form1.pdb
