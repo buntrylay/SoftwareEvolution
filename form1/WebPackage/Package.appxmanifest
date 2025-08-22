@@ -7,13 +7,13 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="6b318405-4600-42e6-a314-90991b3cc797"
-    Publisher="CN=Certificate"
-    Version="1.0.0.0" />
+    Name="Bun3.New3"
+    Publisher="CN=6ECED661-F68E-4C12-9030-D66701943C83"
+    Version="1.0.20.0" />
 
   <Properties>
-    <DisplayName>WebPackage</DisplayName>
-    <PublisherDisplayName>U-ser</PublisherDisplayName>
+    <DisplayName>New3</DisplayName>
+    <PublisherDisplayName>Bun3</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
   </Properties>
 
@@ -31,12 +31,12 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="WebPackage"
+        DisplayName="New3"
         Description="WebPackage"
         BackgroundColor="transparent"
         Square150x150Logo="Images\Square150x150Logo.png"
         Square44x44Logo="Images\Square44x44Logo.png">
-        <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png" />
+        <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png"  Square71x71Logo="Images\SmallTile.png" Square310x310Logo="Images\LargeTile.png"/>
         <uap:SplashScreen Image="Images\SplashScreen.png" />
       </uap:VisualElements>
     </Application>

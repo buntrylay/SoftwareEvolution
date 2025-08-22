@@ -2,8 +2,16 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
-    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxShowAllApps>True</AppxShowAllApps>
     <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
     <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</Source>
+    <SmallTileSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</SmallTileSource>
+    <MediumTileSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</MediumTileSource>
+    <WideTileSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</WideTileSource>
+    <LargeTileSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</LargeTileSource>
+    <AppIconSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</AppIconSource>
+    <SplashScreenSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\U-ser\OneDrive - Swinburne University\Pictures\Screenshots\download %281%29.png</PackageLogoSource>
   </PropertyGroup>
 </Project>

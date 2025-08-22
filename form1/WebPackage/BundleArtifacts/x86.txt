@@ -1,2 +1,6 @@
-MainPackage=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Debug\WebPackage_1.0.0.0_x86_Debug.appx
-SymbolPackage=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\obj\x86\Debug\Symbols\WebPackage_1.0.0.0_x86_Debug.appxsym
+MainPackage=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Release\WebPackage_1.0.20.0_x86.appx
+SymbolPackage=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\obj\x86\Release\Symbols\WebPackage_1.0.20.0_x86.appxsym
+ResourcePack=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Release\WebPackage_1.0.20.0_scale-100.appx
+ResourcePack=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Release\WebPackage_1.0.20.0_scale-125.appx
+ResourcePack=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Release\WebPackage_1.0.20.0_scale-150.appx
+ResourcePack=C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WebPackage\bin\x86\Release\WebPackage_1.0.20.0_scale-400.appx

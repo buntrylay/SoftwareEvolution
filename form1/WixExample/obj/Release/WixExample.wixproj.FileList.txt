@@ -1,0 +1,6 @@
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WixExample\bin\Release\WixExample.msi
+C:\Users\U-ser\source\repos\SoftwareEvolution\form1\WixExample\bin\Release\WixExample.wixpdb
+obj\Release\Product.wixobj
+obj\Release\WixExample.wixproj.BindContentsFileListnull.txt
+obj\Release\WixExample.wixproj.BindOutputsFileListnull.txt
+obj\Release\WixExample.wixproj.BindBuiltOutputsFileListnull.txt
